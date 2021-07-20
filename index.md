@@ -28,4 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+[test](new test.md)
+
+
+
+
+
 ![截屏2021-07-19 下午11.20.53](index.assets/截屏2021-07-19 下午11.20.53.png)
