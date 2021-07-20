@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hololens开发历程
 
-You can use the [editor on GitHub](https://github.com/lihaowei1999/lihaowei19991202.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个记录使用Hololens开发过程的博客，主要记录一些在Hololens 1和Hololens 2上的调试记录，同时也会慢慢补充一些在已经完成的环境配置、网络传输和配准等等的过程。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Unity部分
 
-### Markdown
+### C++部分
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-[test](new test.md)
+- [开发记录](cpp_dev_record.md)
+- 整理记录
 
 
 
-
-
-![截屏2021-07-19 下午11.20.53](index.assets/截屏2021-07-19 下午11.20.53.png)
