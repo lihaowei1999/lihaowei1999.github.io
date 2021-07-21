@@ -8,7 +8,7 @@
 
 首先整理一下项目里的每个类的内容：
 
-[BasicHologramMain](classes_BasicHologramMain.md)
+[BasicHologramMain](classes_BasicHologramMain.pdf)
 
 
 
