@@ -6,6 +6,12 @@
 
 原文献采用了Hololens1，因此我原计划采用Hololens2进行开发，软件环境为vs2019
 
+首先整理一下项目里的每个类的内容：
+
+[BasicHologramMain](classes_BasicHologramMain.md)
+
+
+
 ### HololensForCV
 
 其实这边本来有一个听起来更不错的选择，是HololensForCVUnity，但是经过一天的试探，发现该项目的代码按照提供的README文档的确能跑通，但是问题在于，在Unity中不知道函数在哪里，类长什么样，build到C++之后产生的类名变量名都是电脑自动生成的，没有任何可读性。因此在后续的编写上受到了巨大的限制。
